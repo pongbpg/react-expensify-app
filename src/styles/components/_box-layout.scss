@@ -23,3 +23,9 @@
     margin: 0 0 $m-size 0;
     line-height: 1;
 }
+
+.box-layout__button{
+    display: flex;
+    flex-direction: column;
+    margin-top: $m-size;
+}
